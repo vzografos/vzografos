@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vzografos
 - 👀 I’m interested in computer vision and machine learning
 - 🌱 I’m currently learning Reinforcement Learning 
-- 💞️ I’m looking to collaborate on using Reinforcement Learning to price binary options.
+- 💞️ I’m looking to collaborate on many different projects. I especially using Reinforcement Learning to price binary options and Forex trading (python+ MQL5)
 - 📫 How to reach me. Email me at vasileios@zografos.org
 
 <!---
